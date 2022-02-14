@@ -5,7 +5,7 @@
 
 ## Database
 ### postgresql
-Cloud based: ElephantEQL
+Cloud based: ElephantSQL
 
 ## Packages
 ###  gorilla/mux
